@@ -12,7 +12,7 @@
 //     concate("hello" , " world");
 // }
 
-//approch 2
+// // approch 2
 // #include<iostream>
 // using namespace std;
 // #include<string>
